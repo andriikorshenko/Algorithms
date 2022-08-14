@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\Linear\bin\Debug\net6.0\Linear.exe
+C:\Users\Admin\Desktop\Algorithms\Linear\bin\Debug\net6.0\Linear.deps.json
+C:\Users\Admin\Desktop\Algorithms\Linear\bin\Debug\net6.0\Linear.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\Linear\bin\Debug\net6.0\Linear.dll
+C:\Users\Admin\Desktop\Algorithms\Linear\bin\Debug\net6.0\Linear.pdb
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.dll
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\refint\Linear.dll
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.pdb
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\Linear.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\Linear\obj\Debug\net6.0\ref\Linear.dll

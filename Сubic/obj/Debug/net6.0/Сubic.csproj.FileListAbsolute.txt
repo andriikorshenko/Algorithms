@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\Сubic\bin\Debug\net6.0\Сubic.exe
+C:\Users\Admin\Desktop\Algorithms\Сubic\bin\Debug\net6.0\Сubic.deps.json
+C:\Users\Admin\Desktop\Algorithms\Сubic\bin\Debug\net6.0\Сubic.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\Сubic\bin\Debug\net6.0\Сubic.dll
+C:\Users\Admin\Desktop\Algorithms\Сubic\bin\Debug\net6.0\Сubic.pdb
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.dll
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\refint\Сubic.dll
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.pdb
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\Сubic.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\Сubic\obj\Debug\net6.0\ref\Сubic.dll

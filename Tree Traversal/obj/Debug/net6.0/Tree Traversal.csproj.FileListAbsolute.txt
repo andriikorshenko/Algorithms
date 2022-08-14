@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\bin\Debug\net6.0\Tree Traversal.exe
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\bin\Debug\net6.0\Tree Traversal.deps.json
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\bin\Debug\net6.0\Tree Traversal.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\bin\Debug\net6.0\Tree Traversal.dll
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\bin\Debug\net6.0\Tree Traversal.pdb
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.dll
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\refint\Tree Traversal.dll
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.pdb
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\Tree Traversal.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\Tree Traversal\obj\Debug\net6.0\ref\Tree Traversal.dll
