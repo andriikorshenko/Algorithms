@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\bin\Debug\net6.0\Quick Sort.exe
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\bin\Debug\net6.0\Quick Sort.deps.json
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\bin\Debug\net6.0\Quick Sort.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\bin\Debug\net6.0\Quick Sort.dll
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\bin\Debug\net6.0\Quick Sort.pdb
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.dll
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\refint\Quick Sort.dll
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.pdb
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\Quick Sort.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\Quick Sort\obj\Debug\net6.0\ref\Quick Sort.dll
