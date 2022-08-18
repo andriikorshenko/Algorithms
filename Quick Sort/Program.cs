@@ -1,48 +1,30 @@
 ﻿// Быстрая сортировка (NLogN)
 
-int[] unsortedArray = { 6, 3, 1, 12, 8, 2};
+int[] arr = { 10, 5, 2, 3 };
 
-int[] sortedArray = QuickSort(unsortedArray, 0, unsortedArray.Length - 1);
 
-Console.WriteLine($"Sorted array : {string.Join(", ", sortedArray)}");
-
-int[] QuickSort(int[] array, int minIndex, int maxIndex)
+int[] QuickSort(int[] arr)
 {
-    if (minIndex >= maxIndex)
+    if (arr.Length < 2)
     {
-        return array;
+        return arr;
     }
 
-    int pivotIndex = GetPivotIndex(array, minIndex, maxIndex);
+    int[] arr2 = new int[arr.Length];
 
-    QuickSort(array, minIndex, pivotIndex - 1);
-    QuickSort(array, pivotIndex + 1, maxIndex);
+    int[] pivot = new int[1];
+    pivot[0] = arr[0];
 
-    return array;
+    var less = (from p in arr[1..]
+                where p <= pivot[0]
+                select p).ToArray();
+
+    var grater = (from p in arr[1..]
+                  where p > pivot[0]
+                  select p).ToArray();
+
+    return (QuickSort(less).Concat(pivot).Concat(QuickSort(grater))).ToArray();
 }
 
-static int GetPivotIndex(int[] array, int minIndex, int maxIndex)
-{
-    int pivot = minIndex - 1;
-
-    for (int i = minIndex; i <= maxIndex; i++)
-    {
-        if (array[i] < array[maxIndex])
-        {
-            pivot++;
-            Swap(ref array[pivot], ref array[i]);
-        }
-    }
-
-    pivot++;
-    Swap(ref array[pivot], ref array[maxIndex]);
-
-    return pivot; 
-}
-
-static void Swap(ref int v1, ref int v2)
-{
-    int temp = v1;
-    v1 = v2;
-    v2 = temp;
-}
+Console.WriteLine($"Sorted array : " +
+    $"{string.Join(", ", QuickSort(arr))}");
