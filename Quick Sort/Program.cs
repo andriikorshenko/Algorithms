@@ -1,7 +1,6 @@
 ﻿// Быстрая сортировка (NLogN)
 
-int[] arr = { 3, 2, 1 };
-
+int[] arr = { 3, 4, 3, 5, 7, 9, 2, 1 };
 
 int[] QuickSort(int[] arr)
 {
@@ -10,8 +9,7 @@ int[] QuickSort(int[] arr)
         return arr;
     }
 
-    int[] pivot = new int[1];
-    pivot[0] = arr[0];
+    var pivot = new int[] { arr[0] };
 
     var less = (from p in arr[1..]
                 where p <= pivot[0]
