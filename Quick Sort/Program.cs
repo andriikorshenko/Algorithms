@@ -1,6 +1,6 @@
 ﻿// Быстрая сортировка (NLogN)
 
-int[] arr = { 10, 5, 2, 3 };
+int[] arr = { 3, 2, 1 };
 
 
 int[] QuickSort(int[] arr)
@@ -9,8 +9,6 @@ int[] QuickSort(int[] arr)
     {
         return arr;
     }
-
-    int[] arr2 = new int[arr.Length];
 
     int[] pivot = new int[1];
     pivot[0] = arr[0];
@@ -23,7 +21,10 @@ int[] QuickSort(int[] arr)
                   where p > pivot[0]
                   select p).ToArray();
 
-    return (QuickSort(less).Concat(pivot).Concat(QuickSort(grater))).ToArray();
+    return (QuickSort(less)
+        .Concat(pivot)
+        .Concat(QuickSort(grater)))
+        .ToArray();
 }
 
 Console.WriteLine($"Sorted array : " +
