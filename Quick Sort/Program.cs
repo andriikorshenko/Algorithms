@@ -1,21 +1,21 @@
-﻿// Быстрая сортировка (NLogN)
+﻿//Быстрая сортировка (NLogN).
 
-int[] arr = { 3, 4, 3, 5, 7, 9, 2, 1 };
+int[] array = { 3, 4, 8, 5, 7, 9, 2, 1, 6 };
 
-int[] QuickSort(int[] arr)
+int[] QuickSort(int[] array)
 {
-    if (arr.Length < 2)
+    if (array.Length < 2)
     {
-        return arr;
+        return array;
     }
 
-    var pivot = new int[] { arr[0] };
+    var pivot = new int[] { array[0] };
 
-    var less = (from p in arr[1..]
+    var less = (from p in array[1..]
                 where p <= pivot[0]
                 select p).ToArray();
 
-    var grater = (from p in arr[1..]
+    var grater = (from p in array[1..]
                   where p > pivot[0]
                   select p).ToArray();
 
@@ -26,4 +26,4 @@ int[] QuickSort(int[] arr)
 }
 
 Console.WriteLine($"Sorted array : " +
-    $"{string.Join(", ", QuickSort(arr))}");
+    $"{string.Join(", ", QuickSort(array))}");
