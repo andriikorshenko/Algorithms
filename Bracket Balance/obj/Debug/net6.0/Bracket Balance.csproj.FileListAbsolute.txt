@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\bin\Debug\net6.0\Bracket Balance.exe
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\bin\Debug\net6.0\Bracket Balance.deps.json
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\bin\Debug\net6.0\Bracket Balance.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\bin\Debug\net6.0\Bracket Balance.dll
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\bin\Debug\net6.0\Bracket Balance.pdb
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.dll
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\refint\Bracket Balance.dll
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.pdb
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\Bracket Balance.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\Bracket Balance\obj\Debug\net6.0\ref\Bracket Balance.dll

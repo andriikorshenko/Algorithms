@@ -39,16 +39,19 @@ static void TreeTraversal<T>(TreeNode<T>? node)
 IEnumerable<T> ToEnumerable2<T>(TreeNode<T>? node)
 {
     var stack = new Stack<TreeNode<T>>();
+
     stack.Push(node);
 
     while (stack.Count > 0)
     {
         var current = stack.Pop();
+
         if (current == null)
         {
             continue;
         }
         yield return current.Value;
+
         stack.Push(current.Left);
         stack.Push(current.Right);
     }
