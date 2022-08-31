@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\bin\Debug\net6.0\LinkedList Reverse.exe
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\bin\Debug\net6.0\LinkedList Reverse.deps.json
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\bin\Debug\net6.0\LinkedList Reverse.runtimeconfig.json
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\bin\Debug\net6.0\LinkedList Reverse.dll
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\bin\Debug\net6.0\LinkedList Reverse.pdb
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.dll
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\refint\LinkedList Reverse.dll
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.pdb
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\LinkedList Reverse.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algorithms\LinkedList Reverse\obj\Debug\net6.0\ref\LinkedList Reverse.dll

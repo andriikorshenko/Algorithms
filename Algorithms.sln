@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tree Traversal", "Tree Trav
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quick Sort", "Quick Sort\Quick Sort.csproj", "{D21C06A2-1239-41E6-9714-9B488531D3E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bracket Balance", "Bracket Balance\Bracket Balance.csproj", "{A3B0DA29-09F8-4710-A1A1-F8949373BFE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bracket Balance", "Bracket Balance\Bracket Balance.csproj", "{A3B0DA29-09F8-4710-A1A1-F8949373BFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList Reverse", "LinkedList Reverse\LinkedList Reverse.csproj", "{25E3F0AE-647C-47E6-A3A7-1CF19ECA9EC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{A3B0DA29-09F8-4710-A1A1-F8949373BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3B0DA29-09F8-4710-A1A1-F8949373BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B0DA29-09F8-4710-A1A1-F8949373BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E3F0AE-647C-47E6-A3A7-1CF19ECA9EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E3F0AE-647C-47E6-A3A7-1CF19ECA9EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E3F0AE-647C-47E6-A3A7-1CF19ECA9EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E3F0AE-647C-47E6-A3A7-1CF19ECA9EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
