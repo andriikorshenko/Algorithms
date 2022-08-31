@@ -1,5 +1,5 @@
-﻿string case1 = "({[]})";
-string case2 = "({}a)";
+﻿string case1 = "a({[]})";
+string case2 = "({}a!)";
 string case3 = "[http(s):...]";
 string case4 = "[http{(s):...]";
 
@@ -31,9 +31,9 @@ bool BreketsChecker(string str)
         {
             stack.Push(item);
         }
-        else if (stack.Count == 0) return false;
         else if (!_myDictionary.ContainsValue(item)) continue;
+        else if (stack.Count == 0) return false;        
         else if (_myDictionary[stack.Pop()] != item) return false;
     }
-    return stack.Count == 0; 
+    return stack.Count == 0;
 }

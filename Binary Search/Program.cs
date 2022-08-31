@@ -1,25 +1,32 @@
-﻿// Логарифмический (logN).
+﻿/*
+ * Binary Search: 
+ * Time compexity is O(log n),
+ * Space complexity is O(n).
+ */
 
-int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
+int[] array = { 1, 2, 3, 4, 5, 6, 7 };
 
-static int BinarySearch(int key, int[] numbers)
+static int BinarySearch(int[] numbers, int key)
 {
-    int low = 0;
-    int high = numbers.Length - 1;
+    int lowIndex = 0;
+    int highIndex = numbers.Length - 1;
 
-    while (low <= high)
+    while (lowIndex <= highIndex)
     {
-        // находим середину
-        int mid = low + (high - low) / 2;
-        // если ключ поиска меньше значения в середине
-        // то верхней границей будет элемент до середины
-        if (key < numbers[mid]) high = mid - 1;
-        else if (key > numbers[mid]) low = mid + 1;
-        else return mid;
+        int midIndex = lowIndex + (highIndex - lowIndex) / 2;
+
+        if (key < numbers[midIndex]) highIndex = midIndex;
+        else if (key > numbers[midIndex]) lowIndex = midIndex + 1;
+        else return midIndex + 1;
     }
-    return -1;
+    throw new ArgumentException("No number in the array!");
 }
 
-var cc = BinarySearch(1, arr);
-
-Console.ReadKey();
+try
+{
+    Console.WriteLine("The key is : " + BinarySearch(array, 12));
+}
+catch (ArgumentException ex)
+{
+    Console.WriteLine(ex.Message);
+}
